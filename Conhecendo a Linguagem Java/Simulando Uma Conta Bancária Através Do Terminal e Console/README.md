@@ -1,10 +1,6 @@
-<div style="background-color:orange; color:white; text-align: center;"> 
-<br>
-<font size=7> <strong> Aprendendo Sintaxe Java </strong> </font>
-<br>
-</div>
+# Aprendendo Sintaxe Java
 
-<font size=6> <strong> Sintaxe - Desafio </strong> </font>
+## Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
