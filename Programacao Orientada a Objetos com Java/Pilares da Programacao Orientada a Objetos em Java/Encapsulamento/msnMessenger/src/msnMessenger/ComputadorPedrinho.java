@@ -5,6 +5,7 @@ public class ComputadorPedrinho {
 		//abrindo MSN Messenger
 		MSNMessenger msn = new MSNMessenger();
 
+		
 		msn.enviarMensagem();
 
 		msn.receberMensagem();
